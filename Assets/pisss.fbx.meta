@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: 4da4024639401ae448476d5933589688
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: -5392940688306961842
+    second: pisss
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bathroom_2:blinn1
+    second: {fileID: 2100000, guid: 651e9f7590c010742925a3fc5c9a6d43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bathroom_2:rsArchitectural1
+    second: {fileID: 2100000, guid: 44f45cbf7fc0d2d41984df340d797607, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bathroom_2_Assets_Texture
+    second: {fileID: 2100000, guid: 4e2e5fe3baaf42d429eaa3fed09e4b08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bathroom_2_blinn1
+    second: {fileID: 2100000, guid: cdf59415903328f4282aceba740d7daa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bathroom_2_rsArchitectural1
+    second: {fileID: 2100000, guid: 71ae70239ffe64945825df2c56626ad0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02:blinn1
+    second: {fileID: 2100000, guid: f5679c2aa30a7804d83071d401f76f72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02:blinn2
+    second: {fileID: 2100000, guid: 7f909687234670947b905f7e6f684a85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02:blinn3
+    second: {fileID: 2100000, guid: b8ef8c42b989f864b9545adbf2ad6f7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02:lambert4
+    second: {fileID: 2100000, guid: 92b1edb2080d36c43b50a190bc3cd11f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02:lambert6
+    second: {fileID: 2100000, guid: 831ce881ae46af24a81cc0c7fdf6ea26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02:rsArchitectural1
+    second: {fileID: 2100000, guid: d7c327677b974cf48942298450c0df7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02:rsArchitectural10
+    second: {fileID: 2100000, guid: ed21d79e50affa647a414a72581d1e61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02:rsArchitectural11
+    second: {fileID: 2100000, guid: aa3fd82fc9fe81540a27f493822dd517, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02:rsArchitectural12
+    second: {fileID: 2100000, guid: b8e1201d7809fc2448ba5a374444843a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02:rsArchitectural13
+    second: {fileID: 2100000, guid: dcec3068a40bc984aa3c57ef956fb5f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02:rsArchitectural14
+    second: {fileID: 2100000, guid: fcbd89523adb8f743abef8a072671874, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02:rsArchitectural2
+    second: {fileID: 2100000, guid: 4b96c65dbb6257e47ae50c4bafc71b64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02:rsArchitectural5
+    second: {fileID: 2100000, guid: b03a5b684f992db4483efe66c813e34f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02:rsArchitectural6
+    second: {fileID: 2100000, guid: 501c605f951b72e40ab4942717e034a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02:rsArchitectural7
+    second: {fileID: 2100000, guid: 8ef27e52413244140b87e2539c7a1a96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02:rsArchitectural8
+    second: {fileID: 2100000, guid: a2b638813f3b25041aeec3f62f36f17e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02:rsArchitectural9
+    second: {fileID: 2100000, guid: 70e2c76818fe7804e9a564cf8594de27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02_ZYAM6Y1Q5R1V7Q7569P7YH9CA_ModelMaterial47_Material004
+    second: {fileID: 2100000, guid: 41a497f48dabe8e43a7f2ab72b8f2a91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02_blinn1
+    second: {fileID: 2100000, guid: 25878616eaef7c14383c3d4452620814, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02_blinn2
+    second: {fileID: 2100000, guid: f03dc375631cda640816624c936405a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02_blinn3
+    second: {fileID: 2100000, guid: 96245f6ef872568468f8c57da3dab327, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02_lambert4
+    second: {fileID: 2100000, guid: 2ce21519ddcde7d4899113f8401b081c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02_lambert6
+    second: {fileID: 2100000, guid: baa005b2bc4d88449b8a47a159388329, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02_lambert7
+    second: {fileID: 2100000, guid: 1ab4539eda4f139468eba67e329a8f82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02_lambert8
+    second: {fileID: 2100000, guid: 7a212e0ced1901947a256abddf47faf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02_rsArchitectural1
+    second: {fileID: 2100000, guid: 0b0bd43a6e24c504eb7f26d43752fc1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02_rsArchitectural10
+    second: {fileID: 2100000, guid: 53c6ba1aea9e17d4a906f2d5fcaa77f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02_rsArchitectural11
+    second: {fileID: 2100000, guid: 1e08d9815fd993b44800bb78a8241f62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02_rsArchitectural12
+    second: {fileID: 2100000, guid: e9b4fa752ba36e84bb630db7b4b27a9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02_rsArchitectural13
+    second: {fileID: 2100000, guid: 234a9478665880146b84e2a57319f8a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02_rsArchitectural14
+    second: {fileID: 2100000, guid: f78b3bc8500958b4d924673e6de7df3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02_rsArchitectural2
+    second: {fileID: 2100000, guid: e8a42cc797c6473459bbb52b3dbdebd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02_rsArchitectural5
+    second: {fileID: 2100000, guid: 6c0723899470da0419123cf7cd2c7c24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02_rsArchitectural6
+    second: {fileID: 2100000, guid: 51a12f89f90fb1146819bbf311ca0e4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02_rsArchitectural7
+    second: {fileID: 2100000, guid: 5ad5cb266aeb14648a112f9822d87187, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02_rsArchitectural8
+    second: {fileID: 2100000, guid: 84d3112f445d93448b5b58218f666a0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pissing_Guy_02_rsArchitectural9
+    second: {fileID: 2100000, guid: cecb1d8486149164f922c43917fadad2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rsArchitectural1
+    second: {fileID: 2100000, guid: 016dfdc4bffff02438f90c9aada12717, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rsArchitectural3
+    second: {fileID: 2100000, guid: 9e35c52984830e24cad2d27ecd9ddf49, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Ben_BC
+    second: {fileID: 2800000, guid: 871a7a91353d53a40be7b3e26442012c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tiles
+    second: {fileID: 2800000, guid: 081bdefa73d67954993d46a088f724c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Towel_Texture
+    second: {fileID: 2800000, guid: 66ff3c7fbe4fc1b49839ebc2b57e49eb, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 0
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
